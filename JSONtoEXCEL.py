@@ -24,8 +24,8 @@ def json_to_excel(input_folder, output_file):
     all_data_concatenated.to_excel(output_file, index=False)
 
 # Provide the folder path containing JSON files and the output Excel file path
-input_folder = r"C:\Users\rakkesh_r\Documents\channel"
-output_file = r'C:\Users\rakkesh_r\Desktop\Channel-Converted.xlsx'
+input_folder = r"Input folder"
+output_file = r'Output path/filename.xlsx'
 
 # Convert JSON files to Excel
 json_to_excel(input_folder, output_file)
