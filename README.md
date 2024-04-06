@@ -37,7 +37,7 @@ print("Conversion completed successfully.")
 **Notes:**
 - Ensure JSON files are correctly formatted to avoid parsing errors.
 - Review the generated Excel file for converted data.
-- For any issues or inquiries, please contact [your contact information].
+
 
 **License:**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
